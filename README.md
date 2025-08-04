@@ -1,2 +1,2 @@
 # Cordova_Phonebook-App
-2023-2024
+This repository contains assignments from the year **2023-2024,** originally uploaded to my previous GitHub account. These were backed up after that account was deleted due to the expiration of a school-granted subscription.
